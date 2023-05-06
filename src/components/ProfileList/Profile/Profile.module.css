@@ -1,0 +1,63 @@
+/* цветовые переменные */
+:root {
+  --text-color: #7b5858;
+  --text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.Description {
+  text-align: center;
+}
+
+.Avatar {
+  border-radius: 30px;
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.Name {
+  color: var(--text-color);
+  text-shadow: var(--text-shadow);
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.Tag {
+  color: var(--text-color);
+  text-shadow: var(--text-shadow);
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.Location {
+  color: var(--text-color);
+  text-shadow: var(--text-shadow);
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.Stats {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.StatsItem {
+  text-align: center;
+}
+
+.Label {
+  color: var(--text-color);
+  text-shadow: var(--text-shadow);
+  font-size: 18px;
+}
+
+.Quantity {
+  font-size: 16px;
+  font-weight: bold;
+  text-shadow: var(--text-shadow);
+}
