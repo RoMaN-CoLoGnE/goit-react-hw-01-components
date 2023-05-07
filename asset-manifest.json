@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/static/css/main.833fdf35.css",
-    "main.js": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/static/js/main.f47aa503.js",
-    "static/media/noImage.jpg": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/static/media/noImage.e1ce751ef1b590f719f9.jpg",
-    "index.html": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/index.html",
-    "main.833fdf35.css.map": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/static/css/main.833fdf35.css.map",
-    "main.f47aa503.js.map": "/RoMaN-CoLoGnE.github.io/goit-react-hw-01-components/static/js/main.f47aa503.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.833fdf35.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ce2679d9.js",
+    "static/media/noImage.jpg": "/goit-react-hw-01-components/static/media/noImage.e1ce751ef1b590f719f9.jpg",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.833fdf35.css.map": "/goit-react-hw-01-components/static/css/main.833fdf35.css.map",
+    "main.ce2679d9.js.map": "/goit-react-hw-01-components/static/js/main.ce2679d9.js.map"
   },
   "entrypoints": [
     "static/css/main.833fdf35.css",
-    "static/js/main.f47aa503.js"
+    "static/js/main.ce2679d9.js"
   ]
 }
